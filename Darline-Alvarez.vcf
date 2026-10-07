@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//ChatGPT//vCard 3.0//EN
+FN:Darline Alvarezr
+N:Alvarez;Darline;;
+ORG:Phoenix American Companies
+TITLE:Customer Service Manager
+TEL;TYPE=work,voice:+1-305-266-5665
+TEL;TYPE=cell,voice:+1-305-619-1032
+EMAIL;TYPE=INTERNET,work:dalvarez@phoenixec.com
+URL:https://www.phoenixec.com
+ADR;TYPE=work:;;6303 Waterford District Drive;Miami;FL;33126;USA
+REV:20250918T135246Z
+END:VCARD
